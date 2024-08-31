@@ -1,4 +1,4 @@
-baseurl      = "pushtt.github.io"
+baseurl      = "tipiti.netlify.app"
 title        = "Toward Tomorrow"
 theme        = "hello-friend-ng"
 paginate     = 10

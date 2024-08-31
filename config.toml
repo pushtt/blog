@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "pushtt.github.io"
 title        = "Toward Tomorrow"
 theme        = "hello-friend-ng"
 paginate     = 10

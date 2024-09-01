@@ -1,5 +1,5 @@
-baseurl      = "tipiti.netlify.app"
-title        = "Toward Tomorrow"
+baseurl      = "https://tipiti.netlify.app/"
+title        = "T Time"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -20,8 +20,6 @@ paginate     = 10
 
   # Metadata mostly used in document's head
   description = "What I talk about when I talk about things"
-  keywords = "homepage, blog"
-  images = [""]
 
 [taxonomies]
     category = "blog"

@@ -1,4 +1,4 @@
-baseurl      = "https://tipiti.netlify.app/"
+baseurl      = "https://tipiti.netlify.app"
 title        = "T Corner"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
